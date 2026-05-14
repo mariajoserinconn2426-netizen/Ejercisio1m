@@ -28,7 +28,8 @@ while continuar == "si":
 
     continuar = input("\n¿Desea evaluar otro estudiante? (si/no): ")
 
-print("Programa finalizado.")
+print("Programa finaliza muchas garcias por usar nuestro programa siempre estaremos a tus servicios.")
+
 
 
 
