@@ -18,5 +18,17 @@ while continuar == "si":
     print("\n--- Resultado ---")
     print("Estudiante:", nombre)
     print("Promedio:", round(promedio, 2))
+        # Condicionales
+    if promedio >= 4.5:
+        print("Estado: Excelente")
+    elif promedio >= 3.0:
+        print("Estado: Aprobado")
+    else:
+        print("Estado: Reprobado")
+
+    continuar = input("\n¿Desea evaluar otro estudiante? (si/no): ")
+
+print("Programa finalizado.")
+
 
 
